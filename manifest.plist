@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://edimax-iotapp.github.io/Neton/iOS/UAT5/Neton.ipa</string>
+					<string>https://app.agkhcf12.com/appdownload/ios/fb_0f3e5485_1652519_int_A3.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,15 +31,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.edimax.netcontrol</string>
+				<string>com.app.test</string>
 				<key>bundle-version</key>
-				<string>0.0.5.0227</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Neton</string>
+				<string>App</string>
 				<key>title</key>
-				<string> Neton </string>
+				<string> App </string>
 			</dict>
 		</dict>
 	</array>
